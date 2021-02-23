@@ -18,12 +18,12 @@ The purpose of this project is to conduct a thorough analysis of the New York Ci
 Get the Data - Inside Airbnb - [http://insideairbnb.com/get-the-data.html](http://insideairbnb.com/get-the-data.html)
 
 ## Requirements
-
+* Research on Airbnb sources to obtain datasets relevant for our project.
 * Conduct ETL process so the data gets loaded into PostgreSQL Database.
 * Jsonify Data using Pandas by connecting to the PostgreSQL Database.
 * Create Flask App with different routes to capture viewing pages and json routes. 
 * Using javascript and html to create visualizations from Airbnb Datasets using Plotly, Leaflet, and Bootstrap.
-* Deploy the flask app to heroku.
+* Deploy the flask app to Heroku.
 
 ## Scripts
 
